@@ -1,5 +1,7 @@
 # Laugh A Little
-Laugh a little application is a personal project which consists of a simple application developed to showcase my skill of working with Flutter. This application can run either on mobile device or web browser. The idea behind this application was to build a platform that will provide a joke with a punchline to the user. The user can further use the joke(s) as an ice breaker, to enhance sense of humor, to spread laughter or to simply enjoy by themselves. Thus, reminding the user to ‘Laugh a little’!
+Laugh a little application is a personal project which consists of a simple application developed to showcase my skill of working with <a href="https://flutter.dev/" target="_blank">Flutter</a>. Flutter is an open source framework for building beautiful, natively compiled, multi-platform applications from a single codebase.
+
+This application can run either on mobile device or web browser. The idea behind this application was to build a platform that will provide a joke with a punchline to the user. The user can further use the joke(s) as an ice breaker, to enhance sense of humor, to spread laughter or to simply enjoy by themselves. Thus, reminding the user to ‘Laugh a little’!
 
 * Application details and functionality :
   * Cross-Platform Compatibility: The app can run on both mobile devices and web browsers.
